@@ -1,5 +1,5 @@
-#Hello-World
-First Repository
+# My First Repository
+This is a sample of a good README.md file that can be used when describing a project.
 ## <ins>Project Title</ins>
 *Hello-World Sample - My First Repository*
 ## <ins>Description</ins>
