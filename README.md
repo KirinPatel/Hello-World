@@ -1,4 +1,4 @@
-**#Hello-World**
+#Hello-World
 First Repository
 ## <ins>Project Title</ins>
 *Hello-World Sample - My First Repository*
