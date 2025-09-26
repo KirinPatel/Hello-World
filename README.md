@@ -1,9 +1,9 @@
 # My First Repository
-This is a sample of a good README.md file that can be used when describing a project.
+This is a **sample** of a good README.md file that can be used when describing a project.
 ## <ins>Project Title</ins>
 *Hello-World Sample - My First Repository*
 ## <ins>Description</ins>
-Practice using Github by creating a sample repository. Make sure you add a description to help others understand your project.
+Practice using Github by creating a sample repository. 
 ## <ins>Tools Used</ins>
 Discussed all programming languages and tools used in this project.
 ## <ins>Files Used</ins>
